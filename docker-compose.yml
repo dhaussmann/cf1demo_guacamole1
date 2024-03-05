@@ -21,7 +21,7 @@ services:
     - run
     - --token
     # Update the token value to the value in the Cloudflare Dashboard for the tunnel you created
-    - <ENTER YOUR TOKEN VALUE HERER>
+    - <ENTER YOUR TOKEN VALUE HERE>
     networks:
       guacnetwork_compose:
   # guacd
