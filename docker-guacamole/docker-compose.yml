@@ -1,6 +1,6 @@
 version: '3.0'
 
-# networks
+# networks 
 # create a network 'guacnetwork_compose' in mode 'bridged'
 networks:
   guacnetwork_compose:
